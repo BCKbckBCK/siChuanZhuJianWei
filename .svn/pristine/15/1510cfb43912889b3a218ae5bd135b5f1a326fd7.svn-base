@@ -1,0 +1,65 @@
+.explorationInputStyle {
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
+    font-size: 16px;
+    vertical-align: middle;
+    width: 16em;
+}
+.explorationTextarea {
+    font-size: 16px;
+    width: 80%;
+    min-height: 100px;
+}
+.explorationBtn {
+    vertical-align: middle;
+    width: 6em;
+    border: 0;
+    background-color: #3e97df;
+    height: 40px;
+    line-height: 40px;
+    box-sizing: border-box;
+    color: white;
+    margin-right: 50px;
+}
+.workRecordInput {
+    width: 90%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    border: 0;
+    text-align: center;
+}
+.workRecordInput:focus {
+    // border-color: #409eff;
+    border: 1px solid #409eff;
+}
+.detailTableStyle {
+    width: 100%;
+    th {
+        width: 7em;
+        height: 68px;
+        text-align: left;
+    }
+    td {
+        width: 15em;;
+        color: #999999;
+        i {
+            font-style: normal;
+            font-weight: bold;
+        }
+    }
+}
+.dvLogin ul li div a{
+    height: 50%;
+}
+.dvLogin{
+    ul{
+        height: 200px;
+    }
+}
+.dvLogin ul li{
+    height: 270px;
+    width: 270px;
+}

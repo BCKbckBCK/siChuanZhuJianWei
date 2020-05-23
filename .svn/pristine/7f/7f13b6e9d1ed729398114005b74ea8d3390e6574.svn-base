@@ -1,0 +1,248 @@
+.process {
+    &-container {
+        margin: 20px 0;
+        .operate-button {
+            width: 24px;
+            height: 24px;
+            padding: 4px;
+            margin-left: 8px;
+        }
+    }
+    &-text {
+        font-size: 30px;
+        line-height: 46px;
+    }
+}
+
+#fagaiwei {
+    width: 300px!important;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+// certificate
+.AuditPlan {
+    &-container {
+        margin: 20px 0;
+        .detail {
+            margin: 40px 0;
+            .title {
+                border-bottom: 2px solid #2C3447;
+                display: block;
+                font-size: 1.5em;
+                line-height: 2em;
+                font-weight: bold;
+                color: #2C3447;
+                margin: 25px 0;
+            }
+        }
+    }
+    &-text {
+        font-size: 30px;
+        line-height: 46px;
+    }
+}
+
+.form {
+    font-size: 16px;
+}
+
+.el-form-item {
+    font-size: 16px!important;
+}
+
+.el-form-item__label {
+    font-size: 16px!important;
+}
+
+label {
+    font-size: 16px!important;
+}
+
+.el-form-item__content {
+    font-size: 16px!important;
+}
+
+.detail {
+    .el-form {
+        .el-form-item {
+            font-size: 16px!important;
+        }
+    }
+}
+
+// 
+.processDetail {
+    &-container {
+        margin: 20px 0;
+    }
+    &-text {
+        font-size: 30px;
+        line-height: 46px;
+    }
+}
+
+.el-table {
+    font-family: "微软雅黑", "宋体"!important;
+    font-size: 20px!important;
+    line-height: 60px;
+}
+
+.blue {
+    width: 170px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #3784C2;
+    border: 0;
+    margin-left: 10px;
+}
+
+.el-table th,
+.el-table tr {
+    height: 69px!important;
+}
+
+.el-table .el-tooltip {
+    padding: 10px!important;
+}
+
+.el-table {
+    font-size: 16px!important;
+    .el-button--text {
+        font-size: 20px;
+    }
+}
+
+.has-gutter {
+    .cell {
+        font-size: 16px!important;
+        color: #555555!important;
+    }
+}
+
+.cell {
+    font-size: 16px!important;
+    color: #555555!important;
+}
+
+.el-table {
+    color: #555;
+}
+
+.el-tooltip {
+    .el-tag {
+        font-size: 16px!important;
+        border-radius: 4px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.el-table thead {
+    color: #555555!important;
+    font-weight: 600;
+}
+
+.el-tag {
+    width: 128px;
+    height: 46px;
+    border-radius: 4px;
+    line-height: 46px;
+    color: #004c77;
+    background-color: #a2dbfd;
+}
+
+.el-table td,
+.el-table th {
+    padding: 10px!important;
+}
+
+.el-table_1_column_4 {
+    display: inline-block;
+    padding: 10px;
+    height: 46px;
+    line-height: 1em;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 148.8px!important;
+    height: 69.2px!important;
+}
+
+.processDetail-container {
+    .blue {
+        width: 170px;
+        height: 40px;
+        color: #ffffff;
+        background-color: #3784C2;
+        border: 0;
+    }
+}
+
+.AuditPlan {
+    &-container {
+        margin: 20px 0;
+        .detail {
+            margin: 40px 0;
+            .title {
+                border-bottom: 2px solid #2C3447;
+                display: block;
+                font-size: 1.5em;
+                line-height: 2em;
+                font-weight: bold;
+                color: #2C3447;
+            }
+            .margintop {
+                margin-top: 15px;
+            }
+            .width400 {
+                width: 400px;
+            }
+            .marginBottom .el-form-item {
+                margin-bottom: 10px !important;
+            }
+            .marginBottom .el-select {
+                width: 220px;
+            }
+        }
+    }
+    &-text {
+        font-size: 30px;
+        line-height: 46px;
+    }
+}
+
+.el-button {
+    border-radius: 0!important;
+}
+
+.el-input__inner {
+    border-radius: unset!important;
+}
+
+.search {
+    border-radius: unset!important;
+}
+
+.process-container .el-table th>.cell {
+    color: #555555!important;
+}
+
+input {
+    height: 40px!important;
+}
+
+.newimg {
+    width: 170px!important;
+    height: 40px!important;
+    color: #ffffff;
+    font-size: 16px!important;
+    margin-left: 20px!important;
+    background-color: #3784C2!important;
+    border: 0;
+}
+
+.el-table th>.cell {
+    color: #555555;
+}

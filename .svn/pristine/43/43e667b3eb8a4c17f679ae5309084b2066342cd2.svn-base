@@ -1,0 +1,231 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  font-size: 14px;
+  .left {
+    line-height: 32px;
+  }
+  .right {
+    display: flex;
+    .el-select {
+      width: 70px !important;
+      margin: 0 5px;
+    }
+    span {
+      line-height: 32px;
+    }
+    .el-button {
+      margin: 0 5px;
+    }
+  }
+}
+/* 头部 */
+.header{
+  width: 1200px;
+  margin: 0 auto;
+}
+.header .header_a {
+  width: 1180px;
+  margin: 0 auto;
+}
+.cla {
+  clear: both;
+}
+.header .header_b {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 26px;
+}
+.header .header_b ul {
+  margin-left: 0 !important;
+}
+.header ul {
+  padding: 0px;
+  text-align: left;
+}
+.header .header_b .heras li {
+  list-style: none;
+  display: inline-block;
+}
+.header .header_b ul .yem {
+  width: 1px;
+  height: 40px;
+  border-right: 1px solid #4F8CEE;
+  vertical-align: -17px;
+  margin: 0 10px 0 10px;
+}
+.header .header_b .heras li {
+  list-style: none;
+  display: inline-block;
+}
+.header .header_b ul li:nth-child(7) img {
+  margin-left: 0 !important;
+}
+.header .header_c {
+  margin-top: 18px;
+}
+.header ul {
+  padding: 0px;
+  text-align: left;
+}
+.header .header_c ul li {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Microsoft YaHei", 微软雅黑, Arial, Helvetica, sans-serif;
+  font-weight:400;
+  color: rgb(51, 51, 51);
+  margin-right: 53px;
+  cursor: pointer;
+  line-height: 40px;
+  list-style: none;
+}
+
+.header .header_c ul li:hover {
+  color: #4F8CEE !important;
+}
+.header .header_c{
+position: relative;
+}
+.header .header_c ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Microsoft YaHei", "å¾®è½¯é›…é»‘", Arial, Helvetica, sans-serif;
+  font-weight:400;
+  color: #333333;
+  margin-right: 53px;
+  cursor: pointer;
+  line-height: 41px;
+}
+
+.atvi:hover {
+  color: #4F8CEE;
+}
+.header_h .active {
+  border-bottom: 6px solid #055EC3;
+  color: #055EC3 !important;
+}
+.header_h .active a{
+  color: #055EC3 !important;
+}
+.condstr_search {
+  position: absolute;
+  right: 0;
+  bottom: 10px;
+}
+.header .header_b ul .trat {
+  font-size: 16px;
+  color: #4F8CEE;
+  cursor: pointer;
+  margin-left: 15px;
+}
+.condstr_search input {
+  height: 38px;
+  line-height: 38px;
+  width: 240px;
+  font-size: 16px;
+  background: #F5F5F5;
+  border: none;
+border-radius: 2px;
+float: left;
+  color: #000;
+  text-indent: 20px;
+  outline: none;
+}
+.condstr_search span {
+  display: inline-block;
+  width: 45px;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  background-color: #055EC3;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.condstr_search span img {
+ width: 15px;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  clear: both;
+  zoom: 1;
+}
+footer {
+  font-size: 14px;
+  // height: 116px;
+  border-top: 8px solid #055EC3;
+  background-color: white !important;
+}
+footer .ft-bg {
+  background: #ffffff;
+  padding-top: 10px;
+}
+footer .shengmin ul {
+  text-align: center;
+}
+footer .shengmin ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 18px;
+  color: #367bf0;
+  margin-right: 3%;
+}
+footer .shengmin ul .xian {
+  height: 20px;
+  border-right: 2px solid #367bf0;
+  vertical-align: -4px;
+}
+footer .shengmin ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 18px;
+  color: #367bf0;
+  margin-right: 3%;
+}
+.mid {
+  margin: 0 auto;
+}
+.mid-with {
+  width: 1000px;
+}
+footer .state ul {
+  /* width: 70%; */
+  padding-left: 20px;
+  text-align: center;
+}
+footer .state ul li {
+  list-style: none;
+  line-height: 25px;
+  padding-right: 30px;
+  display: inline-block;
+}
+.el-table th>.cell{
+  background-color: #f2f2f2;
+  line-height: 40px;
+  color: #0D1C28;
+  font-size: 16px;
+  font-family: "微软雅黑", "宋体", Helvetica, Arial, sans-serif;
+}
+.el-table .cell, .el-table th div{
+  font-size: 16px;
+  color: #0D1C28;
+}
+.el-table th{
+  background-color: #f2f2f2;
+
+}.el-table .cell.el-tooltip{
+  line-height: 40px;
+}
+.el-input__inner{
+  border-radius: 0;
+}
+.el-table{
+  border:1px solid #e2e2e2;
+}
+.el-table .cell.el-tooltip {
+  line-height: 30px;
+}

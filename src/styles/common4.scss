@@ -1,0 +1,74 @@
+.option {
+    margin-top: 10px;
+    .one-pice {
+        margin: 0;
+    }
+}
+
+.data-picker {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.el-table .warning-row {
+    background: none;
+}
+
+input {
+    width: 100px;
+}
+
+section {
+    margin-bottom: 15px;
+}
+
+.gradientButton {
+    font-size: 15px;
+    width: 60px;
+    height: 30px;
+    margin: 0 5px;
+    border-radius: 2px;
+    border: 1px solid #88c1f7;
+    text-shadow: none;
+}
+
+.active {
+    background-color: blue;
+}
+
+section {
+    input {
+        height: 30px;
+        margin-top: 1px;
+    }
+}
+
+#table {
+    font-size: 16px!important;
+    .cell {
+        font-size: 16px!important;
+        height: 69px;
+    }
+}
+
+input {
+    width: 170px!important;
+    height: 40px!important;
+}
+
+button {
+    // width: 170px!important;
+    height: 40px!important;
+    font-size: 16px!important;
+    margin-left: 20px!important;
+    // background-color: #3784C2!important;
+}
+
+.el-table th>.cell {
+    color: #555555;
+}
+
+.el-table .cell.el-tooltip {
+    line-height: 50px;
+    height: 70px!important;
+}

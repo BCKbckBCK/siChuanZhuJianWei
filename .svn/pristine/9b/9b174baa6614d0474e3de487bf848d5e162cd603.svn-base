@@ -1,0 +1,9 @@
+# just a flag
+ENV = 'production'
+
+# base api
+VUE_APP_BASE_API = '/kcst'
+
+VUE_APP_REMOTE_API='http://59.225.209.134:8080'
+
+VUE_APP_REDIRECT_URI='59.225.203.123'
